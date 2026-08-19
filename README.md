@@ -41,7 +41,7 @@ The circuit worked as expected during the testing.
 
 ## Result Video
 
-[🎥 View the Result Video](Result%20video.mp4)
+[▶️ Click here to view the result video](./result.mp4)
 
 ## Project Report
 
