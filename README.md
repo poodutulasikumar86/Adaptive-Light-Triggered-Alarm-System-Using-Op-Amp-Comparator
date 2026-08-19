@@ -39,10 +39,11 @@ I tested the circuit by changing the amount of light falling on the LDR. When th
 
 The circuit worked as expected during the testing.
 
+# Project Result
+
 ## Result Video
 
-[▶️ Click here to view the result video](./result.mp4)
-
+<video src="./result.mp4" controls width="700"></video>
 ## Project Report
 
 [📄 View Project Report](EXACT-FILENAME.pdf)
