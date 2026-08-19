@@ -31,7 +31,7 @@ The potentiometer can be adjusted depending on the required light level.
 
 This is the hardware setup that I built and tested.
 
-![Hardware Implementation](something.jpeg)
+![Hardware Implementation](Adaptive%20implementation%20image.jpeg)
 
 ## Result
 
@@ -41,15 +41,11 @@ The circuit worked as expected during the testing.
 
 ## Result Video
 
-The working result can be viewed here:
-
-[View Result Video](something.mp4)
+[🎥 View the Result Video](Result%20video.mp4)
 
 ## Project Report
 
-The complete project report is available here:
-
-[View Project Report](something.pdf)
+[📄 View Project Report](EXACT-FILENAME.pdf)
 
 ## Conclusion
 
